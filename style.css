@@ -54,6 +54,11 @@ li {
   line-height: 1.7;
 }
 
+ul.research-list li {
+  margin-bottom: 0.15em !important;
+  line-height: 1.2 !important;
+}
+
 .subtitle {
   color: #555;
   margin-bottom: 2em;
@@ -72,7 +77,3 @@ em {
   font-style: italic;
 }
 
-.research-list li {
-  margin-bottom: 0.3em;
-  line-height: 1.4;
-}
