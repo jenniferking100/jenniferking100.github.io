@@ -71,3 +71,8 @@ a {
 em {
   font-style: italic;
 }
+
+.research-list li {
+  margin-bottom: 0.3em;
+  line-height: 1.4;
+}
